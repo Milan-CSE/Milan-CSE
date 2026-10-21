@@ -9,8 +9,6 @@ I contribute to open-source projects through testing, bug fixes, code quality im
 **Project:** [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique)
 
 - **Pull Request:** [#100 — Add relative Markdown link checker](https://github.com/Milan-CSE/critique/pull/100) · Merged
-- **Issue:** [#69 — Original issue](https://github.com/BistaDinesh03/critique/issues/69)
-- **Review & Discussion:** [View the complete PR conversation](https://github.com/Milan-CSE/critique/pull/100)
 
 **What I contributed**
 
@@ -25,7 +23,6 @@ I contribute to open-source projects through testing, bug fixes, code quality im
 **Project:** [yunusarda-sudo/arda-suite](https://github.com/yunusarda-sudo/arda-suite)
 
 - **Pull Request:** [#19 — Document shared memory smoke test](https://github.com/yunusarda-sudo/arda-suite/pull/19) · Merged
-- **Review & Discussion:** [View the complete PR conversation](https://github.com/yunusarda-sudo/arda-suite/pull/19)
 
 **What I contributed**
 
@@ -40,7 +37,6 @@ I contribute to open-source projects through testing, bug fixes, code quality im
 **Project:** [ChristianHandy/FleetPilot](https://github.com/ChristianHandy/FleetPilot)
 
 - **Pull Request:** [#142 — View merged contribution](https://github.com/ChristianHandy/FleetPilot/pull/142) · Merged
-- **Review & Discussion:** [View the complete PR conversation](https://github.com/ChristianHandy/FleetPilot/pull/142)
 
 **What I contributed**
 
