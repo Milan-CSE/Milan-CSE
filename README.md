@@ -18,6 +18,20 @@ I contribute to open-source projects through testing, bug fixes, code quality im
 
 **Tech:** Python · Technical Documentation · pytest · Git · GitHub Pull Requests
 
+### ✅ FleetPilot — Repository Test Organization
+
+**Project:** [ChristianHandy/FleetPilot](https://github.com/ChristianHandy/FleetPilot)
+
+- **Pull Request:** [#208 — Repo cleanup: move the tests into tests/ (#171)](https://github.com/ChristianHandy/FleetPilot/pull/208) · Merged
+
+**What I contributed**
+
+- Organized the repository's tests by moving test files from the repository root into the `tests/` directory.
+- Updated the project structure to improve test discoverability and maintainability.
+- Added a changelog entry documenting the test reorganization.
+
+**Tech:** Python · pytest · Repository Maintenance · Git · GitHub Pull Requests
+
 ### ✅ Critique — Relative Markdown Link Checker
 
 **Project:** [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique)
