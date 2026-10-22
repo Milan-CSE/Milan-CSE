@@ -4,6 +4,20 @@
 
 I contribute to open-source projects through testing, bug fixes, code quality improvements, and developer tooling.
 
+### ✅ CPython — Python Core
+
+**Project:** [python/cpython](https://github.com/python/cpython)
+
+- **Pull Request:** [#160086 — Simplify datetime awareness docs](https://github.com/python/cpython/pull/160086) · Merged
+
+**What I contributed**
+
+- Simplified documentation explaining how to determine whether `datetime` and `time` objects are timezone-aware or naive.
+- Replaced verbose awareness criteria with a simpler check using the `utcoffset()` method.
+- Validated the documentation change with documentation checks and datetime tests.
+
+**Tech:** Python · Technical Documentation · pytest · Git · GitHub Pull Requests
+
 ### ✅ Critique — Relative Markdown Link Checker
 
 **Project:** [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique)
