@@ -18,6 +18,21 @@ I contribute to open-source projects through testing, bug fixes, code quality im
 
 **Tech:** Python · Technical Documentation · pytest · Git · GitHub Pull Requests
 
+### ✅ Critique — Fix Project Response Counts
+
+**Project:** [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique)
+
+- **Pull Request:** [#127 — Fix project-list response counts](https://github.com/BistaDinesh03/critique/pull/127) · Merged
+
+**What I contributed**
+
+- Fixed incorrect response counts caused by joining question IDs directly to project IDs.
+- Corrected response aggregation for both Discover and My Projects endpoints.
+- Added regression tests for mismatched project and question IDs.
+- Preserved single-query behavior and impression batching to avoid N+1 queries.
+
+**Tech:** Python · SQLAlchemy · pytest · Backend Testing · GitHub Pull Requests
+
 ### ✅ FleetPilot — Repository Test Organization
 
 **Project:** [ChristianHandy/FleetPilot](https://github.com/ChristianHandy/FleetPilot)
